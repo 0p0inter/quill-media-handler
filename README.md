@@ -7,7 +7,7 @@ Adds a button to the toolbar for users to click, also handles drag,dropped and p
 
 ## Demo
 
-![Image of Yaktocat](/static/quill-example.gif)
+[Image of Yaktocat](/static/quill-example.gif)
 
 ### Install
 
