@@ -1,5 +1,6 @@
 import Quill from "quill";
-import ImageUploader from "./quill.mediaUploader.js";
+import ImageUploader from "./quill.imageUploader.js";
+import VideoUploader from "./quill.videoUploader.js";
 
 Quill.debug("warn");
 Quill.register("modules/imageUploader", ImageUploader);

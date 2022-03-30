@@ -1,5 +1,7 @@
 # Quill mediaHandler Module
 
+Based on ![quill-image-uploader](https://github.com/NoelOConnell/quill-image-uploader)
+
 A module for Quill rich text editor to allow media (images and videos) to be uploaded to a server.
 Adds a button to the toolbar for users to click, also handles drag,dropped and pasted images.
 
